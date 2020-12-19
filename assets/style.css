@@ -7,3 +7,46 @@
 body    {
     background-image: url("images/background.jpg");
 }
+#lol    {
+    font-size: 30px;
+    background-color:#00cc7a;
+    color: white;
+    font-family:'Dancing Script', cursive;
+}
+.col-6  {
+    background-color:white;
+    width: 65%;
+    height:700px;
+    padding: 5%;
+    border-radius: 25px;
+}
+
+.container  {
+    margin-left: 50px;
+    margin-top: 70px;
+    height: 700px;  
+}
+
+#about  {
+    font-size: 75px;
+    color: #00cc7a;
+}
+
+#aboutp {
+    width: 50%;
+    border-radius: 8px;
+    float: left;
+    margin-right: 50px;
+}
+
+#maininfo   {
+    text-align: justify;
+    margin-bottom: 75px;
+}
+
+#sinfo  {
+    text-align: justify;
+}
+
+
+
