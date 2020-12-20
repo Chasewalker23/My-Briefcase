@@ -25,5 +25,5 @@
 As you can see this time, i tried to go beyond! And hey, for just having 3 weeks of learning. I will say it is pretty good!.
 But of course, you need to live the experience! Go ahead and try it for yourself!
 
-[https://chasewalker23.github.io/My-Briefcase/]
-[https://github.com/Chasewalker23/My-Briefcase]
+https://chasewalker23.github.io/My-Briefcase/
+https://github.com/Chasewalker23/My-Briefcase
