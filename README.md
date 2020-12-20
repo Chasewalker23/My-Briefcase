@@ -6,4 +6,4 @@
 
  Right here we have a look to what the first page will be
 
- ![](assets/images/Capture1.png)
+ ![](assets/images/Capture1.PNG)
